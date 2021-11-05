@@ -1,0 +1,65 @@
+body {
+  background: url('assets/img/279563.jpg');
+  font-family: initial;
+}
+ 
+.login {
+  padding: 2em;
+  margin: 3em auto;
+  width: 22em;
+  background: #fff;
+  border : 1px solid black;
+  background: #efefef;
+}
+ 
+label {
+  font-size: 15pt;
+}
+
+.input-icons i {
+  position: absolute;
+}
+
+.input-icons {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.icon {
+  padding: 10px;
+  min-width: 40px;
+}
+
+input[type="text"],
+input[type="password"],
+textarea {
+  padding: 10px;
+  width: 95%;
+  border: 1px solid black;
+  font-size: 10pt;
+  margin: 6px 0px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+input[type=text]:focus,
+input[type=password]:focus {
+  border-color: dodgerblue;
+  box-shadow: 0 0 8px 0 dodgerblue;
+}
+
+.tombol {
+  background: #2C97DF;
+  color: white;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 5px solid #2A80B9;
+  padding: 10px 20px;
+  text-decoration: none;
+  width: 101%;
+  margin: 10px 0px;
+  font-family: sans-serif;
+  font-size: 15pt;
+  cursor: pointer;
+}
