@@ -2,7 +2,7 @@
 	$server = "localhost";
 	$username = "root";
 	$password = "";
-	$database = "penjualan_sma";
+	$database = "persediaan_sma";
 	
 	$connect = mysqli_connect($server, $username, $password, $database);
 

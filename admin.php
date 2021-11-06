@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Sistem Prediksi Obat</title>
+    <title>SCM Peramalan Bahan Baku</title>
 
     <!-- BOOTSTRAP STYLES-->
     <link href="assets/css/bootstrap.css" rel="stylesheet" />
